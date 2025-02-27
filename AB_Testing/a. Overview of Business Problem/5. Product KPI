@@ -1,0 +1,43 @@
+How to build a Product KPI ?
+
+Action --> Main action you are measuring , i.e, Click,View,Post,SignUp
+Unit of Analysis --> At what level you measure the action i.e, User,Sessions,Month,Day
+Statistical Function --> Quantifying the action , i.e, Total, Count, Average
+
+Example - Total time spent on NewsFeed per month 
+
+Metrics Framework 
+
+Framework is useful when it ups with metrics quickly and effectively.
+
+AARRRHG 
+
+Acquisition --> How customers find you ?
+Activation --> how users sign-up?
+Retention --> how long the users stay active ?
+Referral --> how users let others know about the product ?
+Revenue --> Increase Reveue ?
+
+HEART 
+
+Happiness --> How satisfied and happy your users are ?
+Engagement --> how users are enagaged on product ?
+Activation --> how users sign-up?
+Retention --> how long the users stay active ?
+Task Success --> How long does it take for a user to complete a task ?
+
+GAME 
+
+Goal --> What is the business goal of the product ?
+Action --> What is the user journey ?
+Metrics --> How do you measure the product ?
+Evaluate --> How would you prioritze and evaluate the metrics ?
+
+
+```mermaid
+graph TD;
+   THE NSM(Best Measure to company's sucess towards Mission Statement) --> Driver Metrics(The primary KPI to measure product often used for ab testing)
+   Driver Metrics(The primary KPI to measure product often used for ab testing) --> Guardrail Metrics(A set of business and validity metrics that gaurdrail against faulty experiment)
+   Guadrail Metrics(A set of business and validity metrics that gaurdrail against faulty experiment) --> Secondary Metrics(A set of metrics that tracks the micro interactions of user, helps further explain driver metrics)
+   Secondary Metrics(A set of metrics that tracks the micro interactions of user, helps further explain driver metrics) --> Segmentation(A set of metrics that explains the variablity among segments)
+```

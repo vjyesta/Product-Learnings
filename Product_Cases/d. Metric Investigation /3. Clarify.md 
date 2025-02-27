@@ -1,0 +1,20 @@
+Clarify 
+
+There was total monthly sales revenue drop on Amazon by 20% in december ? How to investigate this ?
+
+
+Monthly Revenue ; Sum(price(n) * quantity(n))
+n - transactions
+
+prices might have dropped or the quantity.. ?
+
+Amazon - it is amazon.com or aws or twtich or amazon robotics  ?
+
+20% drop -- is this 20% drop from prev month or last year ? 
+
+
+Assumption : amazon.com and 20% drop from prev month..
+
+
+
+

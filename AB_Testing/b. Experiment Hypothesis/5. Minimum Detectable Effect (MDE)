@@ -1,0 +1,18 @@
+Minimum Detectable Effect (MDE)
+
+MDE is the minimum effect size required to acheive statistical significance. 
+
+The difference between parameters of two groups 
+
+The small difference you want to observe with statistical significance..
+
+MDE is mostly setup based om ROI or some calculation..
+
+MDE Range 
+
+Low 1% - For large platforms..small change also makes lots or ROI.. facebook , uber
+
+High 10% - For startups, if change is significantly enough..
+
+
+For Netflix, MDE is 1%

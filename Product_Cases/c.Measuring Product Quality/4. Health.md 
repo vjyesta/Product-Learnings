@@ -1,0 +1,9 @@
+Health Metrics gives a complete overview of the product's core functions. 
+
+Using HEART Framework to measure health of a product. 
+
+Happiness --> How satisfied and happy your users are ? (Survey Score)
+Engagement --> how users are enagaged on product ? ( Active Users: # of clicks per D/W/D/Q/Y)
+Activation --> how users sign-up? (SignUp rate)
+Retention --> how long the users stay active ? (DAU, MAU)
+Task Success --> How long does it take for a user to complete a task ?(Completion Time)
